@@ -1,0 +1,158 @@
+
+.mr{
+    width: 100%;
+    height: 50px;
+    background-color: #e28743;
+    text-align: center;
+    
+}
+.img{
+    width: 100%;
+    height: 450px;
+    background-color:blueviolet;
+    /* margin-top: 50px; */
+}
+#img1{
+    width: 100%;
+    height: 450px;
+}
+.dv{
+    background-color: #c46008;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+
+  
+}
+.fr{
+    width: 450px;
+    height: 450px;
+    background-color: beige;
+    border: 2px solid black;
+
+}
+.m1{
+    width: 100%;
+    height: 100%;
+}
+.icon{
+    width: 3%;
+    height: 100%;
+}
+.head{
+    font-size: 100px;
+    margin-top: -450px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+
+}
+.H2{
+   font-size: 65px;
+    text-align: center;
+    color: lightslategrey;
+}
+.H2:hover{
+    
+    color: darkred;
+}
+.none{
+    background-color: #c46008;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    padding-bottom: 20px;
+}
+.tr{
+    text-align: center;
+}
+.tr:hover{
+    color: white;
+}
+.nune{
+    background-color: #c46008;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    padding-bottom: 20px;
+}
+.tn{
+        text-align: center;
+}
+.tn:hover{
+    color: white;
+}
+.ft{
+width: 100%;
+height: 600px;
+background-color: #be550f;
+ display: flex;
+ justify-content:space-evenly;
+align-items: center;
+
+}
+.new{
+    width: 500px;
+    height: 500px;
+    background-color: beige;
+    border: 2px solid black;
+
+}
+.new1{
+    width: 350px;
+    height: 500px;
+    border: 2px solid black;
+    text-align: center;
+}
+.moccha{
+    width: 100%;
+    height: 100%;
+}
+.new1 a{
+    text-decoration: none;
+    text-shadow:2px 2px 2px brown ;
+    color: #b4c4d4;
+}
+.new1 a:hover{
+color:#edb879 ;
+}
+.hmd{
+    width: 100;
+    height: 150px;
+    background-color: beige;
+}
+.hmdr{
+    text-align: center;
+    font-size: 75px;
+    text-decoration: underline grey;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.form{
+    padding-top: 25px;
+    text-align: center;
+    background-color: #edb879;
+}
+button{
+    background-color: green;
+    color: azure;
+}
+.b1:hover{
+    background-color: #042f66;
+font-size: 25px;
+    
+}
+.ftr{
+    width: 100%;
+    height: 300px;
+    background-color: #edb879;
+    text-align: center;
+    padding-top: 5px;
+}
+.ftr a:hover{
+    color: #c92418;
+}
